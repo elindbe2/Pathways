@@ -1,0 +1,18 @@
+To Do
+-----
+1. Create context menu when clicking button (make reusable in right click menu).
+
+
+
+Notes
+-----
+
+~ When you click on a path to a picture, it isn't picked up by the
+  DOMContentLoaded Event.
+~ Create saving/loading functions for each path
+~ Create a way of navigating through a pathway
+~ Create simple way to view a pathway
+        * Web page with links to all nodes
+~ Right click to save node or continuous saving modes
+~ link directed to specific position on page (anchor inserted into page HTML)
+~ highlight text on a page (insert <mark> tag)
