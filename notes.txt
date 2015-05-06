@@ -1,6 +1,7 @@
 To Do
 -----
-1. Create context menu when clicking button (make reusable in right click menu).
+1. Create menu when clicking button (make reusable in right click menu).  Use
+   "panel" functionality.
 
 
 
